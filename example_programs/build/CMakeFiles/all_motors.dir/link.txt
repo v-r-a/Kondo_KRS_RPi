@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/all_motors.dir/src/all_motors.cpp.o -o all_motors  -Wl,-rpath,/home/venks/MyKondoLib/example_programs/../IcsClass_V210/lib -lwiringPi ../../IcsClass_V210/lib/libkondoKrsRpi.so 

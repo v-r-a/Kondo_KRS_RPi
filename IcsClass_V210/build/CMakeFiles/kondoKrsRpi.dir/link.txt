@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libkondoKrsRpi.so -o ../lib/libkondoKrsRpi.so CMakeFiles/kondoKrsRpi.dir/src/IcsBaseClass.cpp.o CMakeFiles/kondoKrsRpi.dir/src/IcsHardSerialClass.cpp.o 

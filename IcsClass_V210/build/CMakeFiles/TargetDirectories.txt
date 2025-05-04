@@ -1,0 +1,3 @@
+/home/venks/MyKondoLib/IcsClass_V210/build/CMakeFiles/kondoKrsRpi.dir
+/home/venks/MyKondoLib/IcsClass_V210/build/CMakeFiles/edit_cache.dir
+/home/venks/MyKondoLib/IcsClass_V210/build/CMakeFiles/rebuild_cache.dir
